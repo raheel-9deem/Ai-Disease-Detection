@@ -139,7 +139,7 @@ All models are serialized with `joblib` and loaded at runtime in the Streamlit a
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/raheel-9deem/Ai-Disease-Detection.git)
 cd "AI diseas Detection"
 ```
 
